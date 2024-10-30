@@ -1,0 +1,15 @@
+.btn-blue{
+background-color: #133E87 ;
+color:white ;
+padding:15px 20px ;
+border-radius: 5px;
+text-decoration: none;
+font-family: "Poppins", sans-serif;
+width: 200px;
+}
+.btn-blue:hover{
+background-color:#631A86 ;
+color: white;
+text-decoration: none;
+font-family: "Poppins", sans-serif;
+}
